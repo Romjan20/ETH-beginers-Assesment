@@ -1,5 +1,5 @@
 # ETH-beginers-Assesment
-This repository contains the Solidity smart contract code for the MyToken cryptocurrency. MyToken is a basic ERC20 token with minting and burning functionalities.
+This repository contains the Solidity smart contract code for the MyToken cryptocurrency. MyToken is a basic ERC token with minting and burning functionalities.
 Table of Contents
 
     1.Introduction
