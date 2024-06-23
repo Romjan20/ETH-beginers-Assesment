@@ -3,7 +3,7 @@
 
 This is a simple "Token" program written in Solidity that demonstrates the practical steps for those new to Solidity and interested in understanding its basic syntax and functionality. The contract defines a basic Ethereum token named "EtherRice" with the symbol "ERC". It includes functionality for minting (creating) and burning (destroying) tokens, and it keeps track of token balances for Ethereum addresses. The initial total supply of tokens is set to 0.
 
-The contract includes the following key features:
+# The contract includes the following key features:
 
     Token Details: Public variables that store the name ("EtherRice") and symbol ("ERC") of the token.
     Balances Mapping: A mapping that tracks the number of tokens each address holds.
@@ -19,10 +19,10 @@ Execution Instructions
 
 Step-by-step instructions for deploying and interacting with a Solidity contract on Remix are clear and comprehensive. Here's a refined version with some minor tweaks for clarity:
 
-    Go to the Remix website:
+  #  Go to the Remix website:
         Open https://remix.ethereum.org/.
 
-    Create a new file:
+  #  Create a new file:
         Click on the "+" icon in the left-hand sidebar.
         Save the file with a .sol extension (e.g. EtherRice Token (ERC).sol).
 
@@ -31,17 +31,17 @@ Step-by-step instructions for deploying and interacting with a Solidity contract
         Copy the Solidity code from the GitHub page.
         Paste the copied code into the newly created file in Remix.
 
-    Compile the code:
+   # Compile the code:
         Click on the "Solidity Compiler" tab in the left-hand sidebar.
         Ensure the "Compiler" option is set to "0.8.18" (or another compatible version).
         Click on the "Compile EhterRiceToken (ERC).sol" button.
 
-    Deploy the contract:
+   # Deploy the contract:
         Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
         Select the "EtherRiceToken" contract from the dropdown menu.
         Click on the "Deploy" button.
 
-    Interact with the contract:
+  #  Interact with the contract:
 
         Mint Tokens:
             In the deployed contract section, click on the "EtherRiceToken" contract to expand it.
