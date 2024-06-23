@@ -1,4 +1,5 @@
-Overview
+# ETH beginers Assesment (Create a Token)
+# Overview
 
 This is a simple "Token" program written in Solidity that demonstrates the practical steps for those new to Solidity and interested in understanding its basic syntax and functionality. The contract defines a basic Ethereum token named "EtherRice" with the symbol "ERC". It includes functionality for minting (creating) and burning (destroying) tokens, and it keeps track of token balances for Ethereum addresses. The initial total supply of tokens is set to 0.
 
@@ -26,7 +27,7 @@ Step-by-step instructions for deploying and interacting with a Solidity contract
         Save the file with a .sol extension (e.g. EtherRice Token (ERC).sol).
 
     Copy and paste the provided Solidity code:
-        Go to the provided link: https://github.com/SadikMahmud2003/Create-a-Token_Solidity-Beginner-Assesment-Getting-Started-with-Solidity-
+        Go to the provided link: [https://github.com/Romjan20/ETH-beginers-Assesment/blob/main/ETH%20beginers%20Assesment.sol]
         Copy the Solidity code from the GitHub page.
         Paste the copied code into the newly created file in Remix.
 
@@ -55,11 +56,11 @@ Step-by-step instructions for deploying and interacting with a Solidity contract
             To check the balance of a specific Ethereum address, paste the address into the text field next to the balances function and click on the "balances" button to retrieve the balance.
             To view the tokenName, tokenAbbrv, and totalSupply, click on their respective buttons to display their values.
 
-Author
+# Author
 
     Sadik Mahmud
         GitHub: @Md Romjan Ali [https://github.com/Romjan20]
         LinkedIn: @Md Romjan Ali [https://www.linkedin.com/in/md-romjan-ali-177b3024a/]
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
