@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple "Token" program written in Solidity that demonstrates the practical steps for those new to Solidity and interested in understanding its basic syntax and functionality. The contract defines a basic Ethereum token named "EtherRice Coin" with the symbol "ERC". It includes functionality for minting (creating) and burning (destroying) tokens, and it keeps track of token balances for Ethereum addresses. The initial total supply of tokens is set to 0.
+This is a simple "Token" program written in Solidity that demonstrates the practical steps for those new to Solidity and interested in understanding its basic syntax and functionality. The contract defines a basic Ethereum token named "EtherRice Token" with the symbol "ERC". It includes functionality for minting (creating) and burning (destroying) tokens, and it keeps track of token balances for Ethereum addresses. The initial total supply of tokens is set to 0.
 
 The contract includes the following key features:
 
