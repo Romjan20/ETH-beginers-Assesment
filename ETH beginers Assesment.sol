@@ -16,7 +16,7 @@ pragma solidity >=0.6.12 <0.9.0;
 contract MyToken {
     
     // Public variables to store the details about your coin
-    string public name = "EtherRise Coin";
+    string public name = "EtherRise Token";
     string public symbol = "ERC";
     uint256 public totalSupply;
     
